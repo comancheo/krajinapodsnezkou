@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
+    <url>
+      <loc>https://www.krajinapodsnezkou.cz/aj/</loc>
+      <lastmod>2022-08-26</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.krajinapodsnezkou.cz/aj/karta-obcana.php</loc>
+        <lastmod>2022-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.krajinapodsnezkou.cz/aj/karta-hosta.php</loc>
+        <lastmod>2022-08-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+ </urlset>
